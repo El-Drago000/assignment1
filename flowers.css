@@ -1,0 +1,124 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.text-primary{
+    color: #E55473;;
+
+}
+
+
+
+/* 1st page */
+.banner {
+
+    padding: 30px 20px 0px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgba(229, 84, 115, 0.10);
+
+
+
+}
+
+.img {
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+}
+
+.primary-button {
+
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    color: #FFF;
+    font-size: 20px;
+
+}
+
+.banner-title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+
+}
+
+.para {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+/* 2nd page */
+.featured-flowers{
+    margin:100px 150px 100px 150px ;
+}
+.featured-title {
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.para-s {
+    text-align: center;
+
+}
+
+
+.flowerimg-container {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: last baseline;
+
+}
+
+
+
+.img-1 {
+    width: 200px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    height: 250px;
+}
+
+.img-2 {
+    width: 200px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    height: 300px;
+}
+
+.img-3 {
+    width: 200px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    height: 250px;
+}
+.flower-name{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+.hot-deal{
+    display: flex;
+    justify-content:space-around;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+    
+}
+.featured-title{
+    padding-top: 50px;
+}
+.rose{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
