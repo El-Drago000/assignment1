@@ -61,6 +61,8 @@ body {
 .featured-title {
     text-align: center;
     margin-top: 100px;
+    font-family: Lato;
+    font-size: 40px;
 
 }
 
@@ -116,9 +118,20 @@ background: rgba(229, 84, 115, 0.05);
     
 }
 .featured-title{
-    padding-top: 50px;
+    padding-top: 10px;
 }
 .rose{
     padding-top: 20px;
     padding-bottom: 20px;
+}
+.inspara{
+    text-align: center;
+}
+.ins-pic{
+    display: flex;
+    justify-content: space-around;
+}
+.insta{
+    margin-left: 80px;
+    margin-right: 80px;
 }
