@@ -44,7 +44,9 @@ body {
     font-size: 80px;
     font-weight: 800;
 
+
 }
+
 
 .para {
     color: rgba(39, 39, 39, 0.60);
@@ -126,6 +128,7 @@ background: rgba(229, 84, 115, 0.05);
 }
 .inspara{
     text-align: center;
+    color: rgba(39, 39, 39, 0.60);
 }
 .ins-pic{
     display: flex;
@@ -135,3 +138,37 @@ background: rgba(229, 84, 115, 0.05);
     margin-left: 80px;
     margin-right: 80px;
 }
+/* get the latest deal */
+.get{
+    background-image: url(/Rectangle\ 9.png);
+    text-align: center;
+    margin: 90px;
+
+}
+#in{
+
+    width: 500px;
+    border-radius: 10px;
+    border: 0px;
+    padding: 20px;
+    margin: 50px;
+}
+.last{
+    color: white;
+  
+    text-align: center;
+    background: #111010;
+    padding: 50px 20px 50px 0px ;
+   
+}
+.copy{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+}
+   .emo{
+    display: flex;
+    justify-content: space-around;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 100px; 
+   }
